@@ -4,6 +4,8 @@ Gives you that little motivation you need in the morning
 
 ![Demo](./assets/IMG_3771.jpg)
 
+**NOTE:** 3D Print files were not made by me. The original creator can be found here: https://www.thingiverse.com/thing:4602864
+
 ## Build Requirements
 + Arduino IDE 
 + [DS3231](https://github.com/NorthernWidget/DS3231/blob/master/Documentation/Time-Set.md#void-setdowbyte-dow)
